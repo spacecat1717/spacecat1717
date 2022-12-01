@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @spacecat1717
-- 👀 I’m interested in development on Python, web apps and ML
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on small web projects cause I need more practice 
-- 📫 How to reach me: telegam @mess_1
+- 👀 I’m junior Python dev and now working in amazing small company
+- 🌱 I’m currently learning Ruby and JS
+- 📫 How to reach me: telegam @s17ct
 
 <!---
 spacecat1717/spacecat1717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
