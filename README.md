@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spacecat1717
 - 👀 I’m junior Python dev and now working in amazing small company
-- 🌱 I’m currently learning Ruby and JS
+- 🌱 I’m currently learning Ruby and C++
 - 📫 How to reach me: telegam @s17ct
 
 <!---
