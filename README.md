@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spacecat1717
-- 👀 I’m Python dev and now I'm looking for a new cool job
-- 🌱 I’m currently learning C++
+- 👀 I’m a Python backend dev
+- 🌱 I’m currently learning FastApi & SQLAlchemy
 - 📫 How to reach me: telegam @s17ct
 
 <!---
